@@ -1,14 +1,14 @@
 <template>
   <div id="app">
-    <Cervejarias></Cervejarias>
+    <Mainblock></Mainblock>
   </div>
 </template>
 
 <script>
-  import Cervejarias from './Cervejarias.vue'
+  import Mainblock from './Mainblock.vue'
   export default {
     components: {
-      Cervejarias
+        Mainblock
     }
   }
 </script>
